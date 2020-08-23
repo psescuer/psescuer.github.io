@@ -3,7 +3,7 @@ layout: post
 title: 5 dies a la Val d'Aran
 ---
 
-En aquesta entrada explico l'escapada de 5 dies a la Val d'Aran durant l'agost de 2020.
+En aquesta entrada explico l'escapada de 5 dies a la Val d'Aran durant el mes d'agost de 2020. #Senderisme #Romanic 
 
 
 
