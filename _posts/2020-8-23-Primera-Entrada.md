@@ -4,7 +4,9 @@ title: Primera Entrada
 ---
 
 Avui estreno aquest blog amb la idea de compartir viatges i pensaments.
-![Logo4]({{ site.baseurl }}/images/logo4.png)
+<p align="center">
+  <img src="https://github.com/psescuer/psescuer.github.io/blob/master/images/logo4.png">
+</p>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
