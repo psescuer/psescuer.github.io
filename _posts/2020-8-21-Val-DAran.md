@@ -3,15 +3,17 @@ layout: post
 title: 5 dies a la Val d'Aran
 ---
 
-En aquesta entrada explico l'escapada a la Val d'Aran durant l'agost de 2020. Crèiem que la muntanya seria el millor lloc per fugir de la calor aclaparadora de la ciutat de Barcelona i que de pas evitariem l'abundancia del turisme. Certament la temperatura al mes d'agost a la Val d'Aran és ideal, pel que fa al turisme sembla que tothom va pensar en les massificacions a les platges i per tant el nord estava al 100%. Les zones més ocupades eren els grans municipis: Viehla, Bossóst i Les, però en cap cas vam tenir problemes.
+En aquesta entrada explico l'escapada de 5 dies a la Val d'Aran durant l'agost de 2020.
 
-## Dia 1 - 17/08/2020
+
+
+### Dia 1 - 17/08/2020
 #### Espot - Parc Nacional d'Aiguestortes
 
 Excursió fins a l'Estany Negre i el refugi J.M. Blanc. Partim des del *pàrquing de l'Estany de Sant Maurici*, situat a uns 4 km d'Espot. 
 Dormim a l'Alberg les Daines, a l'estació d'esquí d'Espot. Sopem de bufet per 12 €/pers.
 
-## Dia 2 - 18/08/2020
+### Dia 2 - 18/08/2020
 #### Bossóst - Bausen - Canejan - Les
 L'esmorzar a l'Alberg les Daines és molt complet: iogurt i pastetes casolanes, torrades, embotits *?¿*. Havent esmorzat pugem el cotxe per entrar a la Val d'Aran des de Vaquèira, creuem tota la comarca fins a la *"comunitat"* del Baish Aran (al nord oest). Com que es temporada d'estiu topem amb les obres d'acondicionament de les pistes i carreteres de Baqueira-Beret i triguem ben bé 1 hora fins al poble de Vaquèira, a partir d'allà, seguint la N-230, en poc més de 30 minuts fem la primera parada a Bossóst. 
 
@@ -24,16 +26,16 @@ Bausen i el bonic mirador des d'on tenim unes vistes privilegiades del municipi 
 
 Fem nit a Les, a l'Hotel Europa, situat davant el pont que creua La Garona, sopem a la plaça que hi ha davant de l'hotel.
 
-## Dia 3 - 19/08/2020
+### Dia 3 - 19/08/2020
 #### Viehla - Arties - Salardú
 
 
-![Salardu]({{ site.baseurl }}/images/salardu2.jpg=75x)
-## Dia 4 - 20/08/2020
+![Salardu]({{ site.baseurl }}/images/salardu2.jpg=100x)
+### Dia 4 - 20/08/2020
 #### Arties - Montardo
-![Montardo]({{ site.baseurl }}/images/montardo1.jpg=75x)
+![Montardo]({{ site.baseurl }}/images/montardo1.jpg=100x)
 
-## Dia 5 - 21/08/2020
+### Dia 5 - 21/08/2020
 #### Salardú - Bagergue - Unha
 
 #### Epíleg: Guimerà
