@@ -28,10 +28,10 @@ Fem nit a Les, a l'Hotel Europa, situat davant el pont que creua La Garona, sope
 ### Viehla - Arties - Salardú
 
 
-
+![Salardu]({{ site.baseurl }}/images/salardu1.jpg)
 ## Dia 4 - 20/08/2020
 ### Arties - Montardo
-
+![Montardo]({{ site.baseurl }}/images/montardo1.jpg)
 
 ## Dia 5 - 21/08/2020
 ### Salardú - Bagergue - Unha
