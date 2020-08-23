@@ -9,7 +9,7 @@ name: Pau Salvadó
 description: Viatges. Esport. Escriptura
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![logo]({{ site.baseurl }}/images/logo4.png)
+avatar: https://github.com/psescuer/psescuer.github.io/blob/master/images/logo4.png
 
 #
 # Flags below are optional
