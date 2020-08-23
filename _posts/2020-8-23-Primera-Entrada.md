@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inicis
+title: Primera-Entrada
 ---
 
 Avui estreno aquest blog amb la idea de compartir viatges i pensaments.
