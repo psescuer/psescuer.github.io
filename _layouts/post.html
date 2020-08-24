@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Related posts {{page.categories}}
+    Related posts {{page.categories | category}};
     Written on {{ page.date | date: "%e %B %Y" }}
   </div>
 
