@@ -7,6 +7,7 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%m/%d/%Y" }} 
   </div>
+  
   <div class="tags">
     {% assign sortedCategories = page.categories | sort %}
     {% for category in sortedCategories %}
@@ -21,6 +22,7 @@ layout: default
   </div>
   
   <div class="related">
+    hr {width: 60%;margin-left: auto;margin-right: auto;}
     <h5>Related Posts</h5>
     {% assign firstCategory = page.categories | first %}
     {% assign relatedCount = 0 %}
