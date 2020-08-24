@@ -22,7 +22,7 @@ layout: default
   </div>
   
   <div class="related">
-    <h6>Related Posts</h6>
+    <h3>Related Posts</h3>
     {% assign firstCategory = page.categories | first %}
     {% assign relatedCount = 0 %}
     {% for related in site.categories[firstCategory] %}
@@ -35,7 +35,8 @@ layout: default
             {% break %}
         {% endif %}
     {% endfor %}
-  </div>
+</div>
+
 
   {% include disqus.html %}
 </article>
