@@ -48,7 +48,18 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+# Defineixo Category
+collections:
+  category:
+    output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
