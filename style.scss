@@ -152,11 +152,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background-color: $lightGray;
 }
 
 .masthead {
   padding: 20px 0;
+  background-color: $lightGray;
   border-bottom: 2px solid $lightGray;
 
   @include mobile {
