@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Primera Entrada
+categories:
+    - "miscel·lania"
 ---
 
 Avui estreno aquest blog amb la idea de compartir viatges i pensaments.
