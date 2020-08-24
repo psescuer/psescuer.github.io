@@ -4,6 +4,7 @@ title: Primera Entrada
 ---
 
 Avui estreno aquest blog amb la idea de compartir viatges i pensaments.
+
 <p align="center">
   <img src="https://github.com/psescuer/psescuer.github.io/blob/master/images/logo4.png">
 </p>
