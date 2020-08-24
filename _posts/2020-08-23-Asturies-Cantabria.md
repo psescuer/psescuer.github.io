@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 6 dies al Nord - Cantàbria i Astúries
-permalink: "/blog/2020-08-23-NordEsp"
 categories: 
       - "senderisme"
       - "surf"
