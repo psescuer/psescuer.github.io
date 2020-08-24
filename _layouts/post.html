@@ -17,6 +17,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="date">
+    Written on {{ page.date | date: "%e %B %Y" }}
+  </div>
+  
   <div class="related">
     <h3>Related Posts</h3>
     {% assign firstCategory = page.categories | first %}
@@ -31,10 +35,6 @@ layout: default
             {% break %}
         {% endif %}
     {% endfor %}
-  </div>
-  
-  <div class="date">
-    Written on {{ page.date | date: "%e %B %Y" }}
   </div>
 
   {% include disqus.html %}
