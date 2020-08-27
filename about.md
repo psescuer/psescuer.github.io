@@ -9,4 +9,4 @@ Sóc graduat en enginyeria industrial per la ETSEIB-UPC, Barcelona. Actualment e
 
 ### Contacta'm
 
-[pausalvadoe@gmail.com](mailto:pausalvadoe@gmail.com)
+
