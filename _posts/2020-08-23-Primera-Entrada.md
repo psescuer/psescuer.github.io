@@ -2,7 +2,7 @@
 layout: post
 title: Primera Entrada
 categories:
-    - "miscel·lania"
+    - "miscel·lània"
 ---
 
 Avui estreno aquest blog amb la idea de compartir viatges i pensaments.
