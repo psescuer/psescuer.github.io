@@ -29,6 +29,7 @@ layout: default
     {% for related in site.categories[firstCategory] %}
         {% unless page.permalink == related.permalink %}
             {% assign relatedCount = relatedCount | plus: 1 %}
+            <h5>{{ related.title }}</h5>
             <a href="{{related.permalink}}">{{ related.title }}</a>
         {% endunless %}
         {% if relatedCount == 3 %}
