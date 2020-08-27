@@ -27,6 +27,7 @@ layout: default
     {% assign firstCategory = page.categories | first %}
     {% assign relatedCount = 0 %}
     {% for related in site.categories[firstCategory] %}
+        related.permalink
         {% unless page.permalink == related.permalink %}
             {% assign relatedCount = relatedCount | plus: 1 %}
              aquí hi van tots els títols relacionats...
