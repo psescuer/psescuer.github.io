@@ -2,7 +2,7 @@
 layout: post
 title: Un mòbil per l'Aina
 categories: 
-       - miscel·lania 
+       - miscel·lània 
        - tecnologia
 ---
 
