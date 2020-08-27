@@ -239,31 +239,36 @@ nav {
     }
   }
 }
-/* The sidebar menu */
+
+/* The side navigation menu */
 .sidebar {
-  height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 200px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
-  background-color: #111; /* Black */
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
 }
 
-/* The navigation menu links */
+/* Sidebar links */
 .sidebar a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
   display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
 }
 
-/* When you mouse over the navigation links, change their color */
-.sidebar a:hover {
-  color: #f1f1f1;
+/* Active/current link */
+.sidebar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
 }
 
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
@@ -283,6 +288,7 @@ div.content {
   .sidebar a {float: left;}
   div.content {margin-left: 0;}
 }
+
 //
 // .main
 //
