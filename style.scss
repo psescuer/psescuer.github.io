@@ -277,7 +277,7 @@ nav {
   //float: right;
   padding: 6px 0;
   border: none;
-  margin-left: 5px;
+  margin-left: 200px;
   font-size: 17px;
 }
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
@@ -297,11 +297,9 @@ div.content {
   .sidebar a {float: left;}
   div.content {margin-left: 0;}
   .sidebar input[type=text] {
-	  float: none;
+    float: none;
     display: block;
     text-align: left;
-    width: 100%;
-    margin: 0;
     padding: 14px;
     border: 1px solid #ccc;
   }
