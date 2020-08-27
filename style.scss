@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+<link href='//fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800' 
+rel='stylesheet' type='text/css'>
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +21,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $montse;
+  font: 18px/1.4 'Montserrat';
   color: $darkGray;
 }
 
