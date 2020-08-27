@@ -275,10 +275,9 @@ nav {
 /* Style the search box inside the navigation bar */
 .sidebar input[type=text] {
   //float: right;
-  padding: 6px;
+  padding: 6px 0;
   border: none;
-  //margin-top: 8px;
-  //margin-right: 16px;
+  margin-left: 5px;
   font-size: 17px;
 }
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
