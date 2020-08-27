@@ -4,11 +4,8 @@ title: Sobre mi
 permalink: /about/
 ---
 
-Sóc Enginyer Industrial, durant el temps lliure m'agrada escriure i gaudir de l'esport.
+Sóc graduat en enginyeria industrial per la ETSEIB-UPC, Barcelona. Actualment estic cursant el màster ...
 
-### Més informació
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contacta'm
 
