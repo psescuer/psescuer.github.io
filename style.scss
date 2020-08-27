@@ -29,7 +29,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  z-index: -1
+  z-index: -1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -162,7 +162,7 @@ img {
   border-bottom: 2px solid $lightGray;
 
   @include mobile {
-    text-align: left;
+    text-align: center;
   }
 }
 
