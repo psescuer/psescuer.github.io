@@ -272,13 +272,14 @@ div.content {
   height: 1000px;
 }
 
-
-
 @include mobile {
-  .sidebar a {
-    text-align: center;
-    float: none;
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
   }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
 }
 
 //
