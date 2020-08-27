@@ -7,6 +7,8 @@ permalink: /contact/
 
 [pausalvadoe@gmail.com](mailto:pausalvadoe@gmail.com)
 
+<hr>
+
 <form>
   <label for="msgb">Escriu el teu missatge</label>
   <input type="text" id="msgb" name="msgb" style = "width: 100%;
