@@ -4,7 +4,6 @@ title: 6 dies al Nord - Cantàbria i Astúries
 categories: 
       - "senderisme"
       - "surf"
-      - "miscel·lania"
 ---
 
 "En aquesta entrada explico una escapada de 6 dies pel nord d'Espanya durant el mes d'agost de 2020. El primer i l'útim dia són dies únicament de desplaçament en cotxe." 
