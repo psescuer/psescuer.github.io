@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacta'm
-permalink: /contact/
+permalink: /tabs/contact/
 ---
 
 
