@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mi
-permalink: /about/
+permalink: /tabs/about/
 ---
 
 Sóc graduat en enginyeria industrial per la ETSEIB-UPC, Barcelona. Actualment estic cursant el màster ...
