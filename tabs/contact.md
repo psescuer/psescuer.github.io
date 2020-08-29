@@ -9,13 +9,7 @@ permalink: /tabs/contact/
 
 <hr>
 
-<form>
-  <label for="msgb">Escriu el teu missatge</label>
-  <input type="text" id="msgb" name="msgb" style = "width: 100%;
-  padding: 50px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;">
-</form>
+{% include my-form.html %}
 
 
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
