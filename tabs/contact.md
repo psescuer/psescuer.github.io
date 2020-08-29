@@ -16,3 +16,6 @@ permalink: /tabs/contact/
   margin: 8px 0;
   box-sizing: border-box;">
 </form>
+
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
